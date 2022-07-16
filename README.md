@@ -15,3 +15,6 @@ Farsi , Go, German , Python are on my List!
 Bref … I'm that *muslim woman 🧕🏼 who is going to keep shattering anything that stands between her and her success 💪 …
 
  See you soon! I bet you are eager to know how I hacked your camera.
+ 
+ 
+ 
