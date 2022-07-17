@@ -1,3 +1,5 @@
+ ![Snake animation](https://github.com/Azhar-Bondi/Azhar-Bondi/blob/output/github-contribution-grid-snake.svg)
+
 Tired 😫 and fed up of looking up boring profiles? I can see your eye Strain 👀 through your front 📸 
  camera. 
 If you wonder how ? Just a hint: Kevin Mitnick is my cousin .. that's another story we can leave for when we meet! 
@@ -42,5 +44,4 @@ Bref … I'm that *muslim woman 🧕🏼 who is going to keep shattering anythin
  <a href = "mailto:azharbondi14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/azhar-bondi-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/Azhar-Bondi/Azhar-Bondi/blob/output/github-contribution-grid-snake.svg)
  </div> 
