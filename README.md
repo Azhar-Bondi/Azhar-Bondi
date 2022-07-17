@@ -38,6 +38,7 @@ Bref … I'm that *muslim woman 🧕🏼 who is going to keep shattering anythin
 
 
 <div>
+ 
  <a href = "mailto:azharbondi14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/azhar-bondi-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
