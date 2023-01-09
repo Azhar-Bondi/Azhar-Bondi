@@ -1,5 +1,3 @@
- ![Snake animation](https://github.com/Azhar-Bondi/Azhar-Bondi/blob/output/github-contribution-grid-snake.svg)
-
 Tired 😫 and fed up of looking up boring profiles? I can see your eye Strain 👀 through your front 📸 
  camera. 
 If you wonder how ? Just a hint: Kevin Mitnick is my cousin .. that's another story we can leave for when we meet! 
