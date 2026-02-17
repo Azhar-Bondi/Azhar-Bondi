@@ -1,10 +1,13 @@
-Tired 😫 and fed up of looking up boring profiles? I can see your eye Strain 👀 through your front 📸 
- camera. 
-If you wonder how ? Just a hint: Kevin Mitnick is my cousin .. that's another story we can leave for when we meet! 
-But, first I want to see that smiley face 😁 of yours since you have just found the right person to work on your project. So no more research and no more pain. 🥊 Hit me with a call 📱. Et voilà c'est fait! But watch out cause I can hit back🥊 
+🥊 QA Engineer | Bug Hunter | Multilingual Test Specialist
 
- See you soon! I bet you are eager to know how I hacked your camera.
- 
+I break apps so you don't have to.
+
+🛠️ OutSystems → QA
+🌍 EN | FR | PT | AR | DE
+🔍 Finding what developers miss
+
+Your app works... until it doesn't. I find the "it doesn't" before your users do.
+
  
  <div align="center">
   <a href="https://github.com/Azhar-Bondi">
