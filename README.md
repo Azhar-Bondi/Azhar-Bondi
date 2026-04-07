@@ -1,4 +1,4 @@
-🥊 QA Engineer | Bug Hunter | Multilingual Test Specialist
+🥊 QA Engineer & Full Stack Developer | Bug Hunter | Multilingual Test Specialist
 
 I break apps so you don't have to.
 
