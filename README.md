@@ -27,7 +27,6 @@ I help mission-driven product brands turn social media into sales, by reaching t
 <div>
   <a href="https://azharbondi.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/azhar-bondi-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:azharbondi14@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <details>
